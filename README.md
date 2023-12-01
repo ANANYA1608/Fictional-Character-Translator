@@ -1,5 +1,4 @@
 # Fictional-Character-Translator
-Live Link : https://fictional--translator.web.app/index.html
 
 There are many fans of different fictional characters shown in movies like YODA, MINNIONS, GROOT,HODOR etc.
 
